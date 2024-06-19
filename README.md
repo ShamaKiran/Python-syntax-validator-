@@ -1,5 +1,5 @@
 # Python-syntax-validator-
-The main purpose of this project is to create a tool that can validate and parse a subset of Python expressions involving the zip function,arithmetic operator,function definition,sets and tuples. This helps in understanding concepts like lexical analysis and parsing, or as a component in a larger project where validating specific kinds of Python expressions is necessary.
+The main purpose of this project is to create a tool that can validate and parse a subset of Python expressions involving the zip function,arithmetic operator,function decorators,sets and tuples. This helps in understanding concepts like lexical analysis and parsing, or as a component in a larger project where validating specific kinds of Python expressions is necessary.
 
 How It Works
 The user is prompted to enter a zip function expression.
